@@ -1,6 +1,23 @@
 {
-  "name": "node-download",
-  "version": "1.0.0",
-  "dependencies": {
-  }
+  "name": "@zggmd/node-get-files",
+  "version": "0.0.1",
+  "description": "Download files from array with url",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zggmd/node-download.git"
+  },
+  "keywords": [
+    "nodejs",
+    "download"
+  ],
+  "author": "zggmd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zggmd/node-download/issues"
+  },
+  "homepage": "https://github.com/zggmd/node-download#readme"
 }
